@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,ROCKSTAR (feat. Roddy Ricch),BLAME IT ON BABY,DaBaby,2020-04-17,181733,100,0.746,0.247,0.746,0.69,0.0,0.101,-7.956,0.164,89.977,4
+1,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix","WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",Jack Harlow,2020-06-24,227478,88,0.904,0.0631,0.904,0.723,0.0,0.185,-5.224,0.26,145.013,4
+2,Blinding Lights,After Hours,The Weeknd,2020-03-20,200040,99,0.514,0.00146,0.514,0.73,9.54e-05,0.0897,-5.934,0.0598,171.005,4
+3,Savage Remix (feat. Beyoncé),Savage Remix (feat. Beyoncé),Megan Thee Stallion,2020-04-29,242000,91,0.822,0.016,0.822,0.743,0.0,0.127,-4.772,0.28,84.459,4
+4,Roses - Imanbek Remix,Roses (Imanbek Remix),SAINt JHN,2019-09-13,176218,85,0.784,0.0149,0.784,0.721,0.00424,0.285,-5.457,0.0506,121.966,4
+5,Say So (feat. Nicki Minaj),Say So (feat. Nicki Minaj),Doja Cat,2020-05-01,206220,86,0.856,0.119,0.856,0.641,4.97e-06,0.427,-4.64,0.204,111.004,4
+6,Intentions (feat. Quavo),Changes,Justin Bieber,2020-02-14,212866,87,0.806,0.3,0.806,0.546,0.0,0.102,-6.637,0.0575,147.986,4
+7,Watermelon Sugar,Watermelon Sugar,Harry Styles,2019-11-17,174000,84,0.548,0.122,0.548,0.816,0.0,0.335,-4.209,0.0465,95.39,4
+8,Blueberry Faygo,Blueberry Faygo,Lil Mosey,2020-02-07,162546,91,0.774,0.207,0.774,0.554,0.0,0.132,-7.909,0.0383,99.034,4
+9,We Paid (feat. 42 Dugg),My Turn (Deluxe),Lil Baby,2020-05-01,181929,51,0.93,0.125,0.93,0.522,0.0,0.0844,-5.35,0.341,135.116,4
+10,Adore You,Adore You,Harry Styles,2019-12-06,207133,83,0.676,0.0237,0.676,0.771,7e-06,0.102,-3.675,0.0483,99.048,4
+11,Rain On Me (with Ariana Grande),Rain On Me (with Ariana Grande),Lady Gaga,2020-05-22,182200,93,0.672,0.021,0.672,0.855,0.0,0.323,-3.764,0.0397,123.056,4
+12,Circles,Hollywood's Bleeding,Post Malone,2019-09-06,215280,91,0.695,0.192,0.695,0.762,0.00244,0.0863,-3.497,0.0395,120.042,4
+13,The Bigger Picture,The Bigger Picture,Lil Baby,2020-06-12,252728,86,0.59,0.0127,0.59,0.618,0.0,0.244,-5.756,0.334,96.459,3
+14,Don't Start Now,Don't Start Now,Dua Lipa,2019-10-31,183290,91,0.794,0.0125,0.794,0.793,0.0,0.0952,-4.521,0.0842,123.941,4
+15,The Box,Please Excuse Me For Being Antisocial,Roddy Ricch,2019-12-06,196652,93,0.896,0.104,0.896,0.586,0.0,0.79,-6.687,0.0559,116.971,4
+16,The Bones,GIRL,Maren Morris,2019-03-08,197293,68,0.612,0.279,0.612,0.57,0.0,0.0963,-6.642,0.0347,77.004,4
+17,Life Is Good (feat. Drake),Life Is Good (feat. Drake),Future,2020-01-10,237735,88,0.676,0.0706,0.676,0.609,0.0,0.152,-5.831,0.481,142.037,4
+18,Falling,Falling,Trevor Daniel,2018-10-05,159381,90,0.784,0.123,0.784,0.43,0.0,0.0887,-8.756,0.0364,127.087,4
+19,Break My Heart,Future Nostalgia,Dua Lipa,2020-03-27,221820,89,0.73,0.167,0.73,0.729,1.39e-06,0.349,-3.434,0.0883,113.013,4
+20,I Hope,I Hope,Gabby Barrett,2019-01-25,209228,75,0.561,0.0951,0.561,0.536,0.0,0.114,-6.227,0.0346,150.01,4
+21,One Margarita,One Margarita,Luke Bryan,2020-03-13,193426,78,0.641,0.0969,0.641,0.842,0.0,0.169,-4.872,0.0464,89.997,4
+22,Sunday Best,Where the Light Is,Surfaces,2019-01-06,158571,92,0.878,0.183,0.878,0.525,0.0,0.0714,-6.832,0.0578,112.022,4
+23,death bed (coffee for your head) (feat. beabadoobee),death bed (coffee for your head) (feat. beabadoobee),Powfu,2020-02-08,173333,96,0.726,0.731,0.726,0.431,0.0,0.696,-8.765,0.135,144.026,4
+24,Before You Go,Before You Go,Lewis Capaldi,2019-11-19,215106,88,0.459,0.604,0.459,0.575,0.0,0.0885,-4.858,0.0573,111.881,4
+25,Toosie Slide,Toosie Slide,Drake,2020-04-03,247058,93,0.834,0.321,0.834,0.454,6.15e-06,0.114,-9.75,0.201,81.618,4
+26,Hard To Forget,Hard To Forget,Sam Hunt,2020-02-07,204760,67,0.689,0.23,0.689,0.689,0.0,0.57,-5.517,0.045,130.069,4
+27,Girls in the Hood,Girls in the Hood,Megan Thee Stallion,2020-06-26,154323,78,0.821,0.00824,0.821,0.863,0.0,0.0377,-3.159,0.353,180.013,4
+28,Party Girl,Party Girl,StaySolidRocky,2020-04-21,147800,94,0.728,0.749,0.728,0.431,0.0,0.0996,-9.966,0.0622,130.022,4
+29,Go Crazy,Slime & B,Chris Brown,2020-05-08,176960,87,0.755,0.316,0.755,0.578,0.0,0.25,-8.932,0.145,94.148,4
+30,Savage Love (Laxed - Siren Beat),Savage Love (Laxed - Siren Beat),Jawsh 685,2020-06-11,171374,94,0.767,0.234,0.767,0.481,0.0,0.269,-8.52,0.0803,150.076,4
+31,Chasin' You,If I Know Me,Morgan Wallen,2018-04-27,205453,81,0.631,0.657,0.631,0.591,0.0,0.11,-5.785,0.0277,97.074,4
+32,How You Like That,How You Like That,BLACKPINK,2020-06-26,181263,89,0.828,0.0694,0.828,0.782,3.41e-05,0.0544,-4.014,0.0918,130.013,4
+33,Stuck with U (with Justin Bieber),Stuck with U,Ariana Grande,2020-05-08,228482,93,0.597,0.223,0.597,0.45,0.0,0.382,-6.658,0.0418,178.765,3
+34,Bluebird,Wildcard,Miranda Lambert,2019-11-01,209760,76,0.661,0.038,0.661,0.633,2.82e-06,0.124,-5.986,0.0349,81.984,4
+35,High Fashion (feat. Mustard),Please Excuse Me For Being Antisocial,Roddy Ricch,2019-12-06,220486,85,0.831,0.269,0.831,0.499,0.0,0.3,-8.442,0.114,97.956,4
+36,Emotionally Scarred,My Turn,Lil Baby,2020-02-28,197529,82,0.585,0.0286,0.585,0.641,0.0,0.316,-4.269,0.133,88.284,4
+37,THE SCOTTS,THE SCOTTS,THE SCOTTS,2020-04-24,165977,93,0.716,0.233,0.716,0.537,0.0,0.157,-7.648,0.0514,129.979,4
+38,Be Kind (with Halsey),Be Kind (with Halsey),Marshmello,2020-05-01,172761,91,0.63,0.00776,0.63,0.633,0.0,0.0541,-7.088,0.0457,93.995,4
+39,Walk Em Down (feat. Roddy Ricch),Walk Em Down (feat. Roddy Ricch),NLE Choppa,2020-03-19,173288,88,0.867,0.268,0.867,0.744,0.0,0.0713,-5.171,0.228,84.005,4
+40,Supalonely,STELLA & STEVE,BENEE,2019-11-15,223480,93,0.863,0.305,0.863,0.631,3.04e-05,0.123,-4.689,0.0534,128.977,4
+41,Memories,Memories,Maroon 5,2019-09-20,189486,90,0.764,0.837,0.764,0.32,0.0,0.0822,-7.209,0.0546,91.019,4
+42,Nobody But You (Duet with Gwen Stefani),Fully Loaded: God's Country,Blake Shelton,2019-12-13,194866,75,0.463,0.111,0.463,0.653,0.000136,0.172,-5.515,0.0273,143.912,4
+43,Dior,Meet The Woo,Pop Smoke,2019-07-26,216386,85,0.548,0.212,0.548,0.805,0.000389,0.408,-5.732,0.351,142.094,4
+44,Die From A Broken Heart,Die From A Broken Heart,Maddie & Tae,2018-10-19,188290,73,0.607,0.363,0.607,0.514,0.0,0.258,-6.631,0.0323,75.978,4
+45,hot girl bummer,hot girl bummer,blackbear,2019-08-23,185093,87,0.778,0.128,0.778,0.559,0.0,0.399,-7.109,0.0776,129.989,1
+46,Here And Now,Knowing You,Kenny Chesney,2020-04-10,171493,26,0.509,0.0484,0.509,0.814,0.0,0.12,-3.576,0.0532,148.034,4
+47,I Love My Country,I Love My Country,Florida Georgia Line,2020-03-27,184554,55,0.538,0.0227,0.538,0.941,0.0,0.302,-3.582,0.0639,140.044,4
+48,Wash Us In The Blood,Wash Us In The Blood,Kanye West,2020-06-30,189827,84,0.67,0.184,0.67,0.847,0.0,0.304,-4.85,0.409,137.22,4
+49,If the World Was Ending - feat. Julia Michaels,If the World Was Ending (feat. Julia Michaels),JP Saxe,2019-10-17,208687,87,0.464,0.866,0.464,0.473,0.0,0.109,-10.086,0.129,75.801,4
+50,Like That (feat. Gucci Mane),Hot Pink,Doja Cat,2019-11-07,163173,85,0.879,0.24,0.879,0.499,0.0,0.0967,-6.027,0.18,106.043,4
+51,Got What I Got,9,Jason Aldean,2019-11-22,178146,76,0.512,0.621,0.512,0.58,1.72e-05,0.513,-6.658,0.029,159.847,3
+52,Does To Me (feat. Eric Church),What You See Is What You Get,Luke Combs,2019-11-08,223320,50,0.616,0.308,0.616,0.849,0.0,0.311,-4.897,0.0373,113.066,4
+53,TROLLZ (with Nicki Minaj),TROLLZ (with Nicki Minaj),6ix9ine,2020-06-12,202666,87,0.744,0.0319,0.744,0.422,0.00011,0.11,-8.946,0.294,180.006,4
+54,GOOBA,GOOBA,6ix9ine,2020-05-08,132303,92,0.611,0.0264,0.611,0.688,0.0,0.251,-5.688,0.341,178.462,4
+55,In Between,Seasons Change,Scotty McCreery,2018-03-16,221600,56,0.592,0.0166,0.592,0.928,1.38e-05,0.123,-5.403,0.0557,121.997,4
+56,Don't Rush (feat. Headie One),Don't Rush (feat. Headie One),Young T & Bugsey,2019-11-07,207640,80,0.961,0.202,0.961,0.461,0.00402,0.162,-8.684,0.27,108.028,4
+57,Be A Light,Be A Light,Thomas Rhett,2020-03-30,173960,73,0.509,0.0397,0.509,0.493,1.32e-06,0.102,-6.676,0.0266,97.846,4
+58,P*$$Y Fairy (OTW),P*$$Y Fairy (OTW),Jhené Aiko,2020-01-17,181860,74,0.572,0.536,0.572,0.519,0.0,0.102,-7.092,0.212,128.331,4
+59,God Whispered Your Name,God Whispered Your Name,Keith Urban,2020-02-27,232165,74,0.594,0.306,0.594,0.6,0.0,0.149,-6.712,0.0498,145.967,4
+60,After Party,Heaven Or Hell,Don Toliver,2020-03-13,167915,89,0.629,0.00981,0.629,0.692,0.331,0.603,-8.045,0.0376,162.948,4
+61,Chicago Freestyle (feat. Giveon),Dark Lane Demo Tapes,Drake,2020-05-01,220487,57,0.745,0.619,0.745,0.446,0.0,0.113,-7.518,0.326,122.982,4
+62,Done,Real Friends,Chris Janson,2019-10-18,220120,72,0.565,0.34,0.565,0.835,0.0,0.0726,-3.379,0.0335,105.007,4
+63,MAMACITA,MAMACITA,Black Eyed Peas,2020-04-10,249142,90,0.894,0.193,0.894,0.635,0.00105,0.0823,-6.929,0.0473,105.013,4
+64,One Big Country Song,Brothers,LOCASH,2019-03-29,193026,74,0.547,0.602,0.547,0.822,0.0,0.107,-2.85,0.0334,81.981,4
+65,Beer Can’t Fix,Center Point Road,Thomas Rhett,2019-05-31,209733,76,0.711,0.0317,0.711,0.774,0.0,0.124,-4.068,0.0308,111.016,4
+66,After A Few,After A Few,Travis Denning,2019-01-18,213493,72,0.617,0.0146,0.617,0.849,0.0,0.194,-4.316,0.0355,106.998,4
+67,3 Headed Goat (feat. Lil Baby & Polo G),3 Headed Goat (feat. Lil Baby & Polo G),Lil Durk,2020-05-07,169531,76,0.835,0.262,0.835,0.482,0.0,0.0991,-8.607,0.367,143.015,4
+68,Why We Drink,Late Nights And Longnecks,Justin Moore,2019-07-26,211430,73,0.624,0.00824,0.624,0.903,0.0,0.309,-3.046,0.0347,116.99,4
+69,Flex (feat. Juice WRLD),THE GOAT,Polo G,2020-05-15,163902,86,0.752,0.0538,0.752,0.673,0.0,0.133,-5.792,0.153,164.009,4
+70,BLACK PARADE,BLACK PARADE,Beyoncé,2020-06-19,281272,81,0.824,0.00337,0.824,0.555,6.42e-06,0.217,-5.817,0.05,120.002,4
+71,Need It,Need It,Migos,2020-05-22,195680,80,0.852,0.0313,0.852,0.745,0.0,0.0824,-3.667,0.171,148.007,4
+72,One Of Them Girls,One Of Them Girls,Lee Brice,2020-04-10,188893,76,0.643,0.294,0.643,0.79,0.0,0.107,-6.079,0.0462,95.987,4
+73,Yo Perreo Sola,YHLQMDLG,Bad Bunny,2020-02-28,172127,90,0.86,0.021,0.86,0.758,6.54e-05,0.344,-5.16,0.0695,97.014,4
+74,Know My Rights (feat. Lil Baby),6pc Hot EP,6LACK,2020-06-26,194395,76,0.789,0.249,0.789,0.419,0.0257,0.123,-9.874,0.157,117.988,4
+75,Cool Again,Cool Again,Kane Brown,2020-04-23,164668,75,0.608,0.0156,0.608,0.735,1.69e-06,0.361,-5.497,0.0371,90.007,4
+76,Past Life (with Selena Gomez),Past Life (with Selena Gomez),Trevor Daniel,2020-06-26,186480,82,0.612,0.104,0.612,0.539,0.0,0.18,-5.071,0.0488,79.948,4
+77,ily (i love you baby) (feat. Emilee),ily (i love you baby) (feat. Emilee),Surf Mesa,2019-11-26,176546,94,0.674,0.0686,0.674,0.774,0.00188,0.393,-7.567,0.0892,112.05,4
+78,Daisies,Daisies,Katy Perry,2020-05-15,173123,85,0.639,0.0837,0.639,0.546,0.0,0.122,-5.382,0.0407,122.179,4
+79,GO (feat. Juice WRLD),GO (feat. Juice WRLD),The Kid LAROI,2020-06-12,183947,87,0.544,0.185,0.544,0.744,0.0,0.336,-5.007,0.0889,73.699,4
+80,DOLLAZ ON MY HEAD (feat. Young Thug),WUNNA,Gunna,2020-05-22,197760,85,0.825,0.114,0.825,0.458,0.0,0.102,-7.47,0.0577,145.115,4
+81,More Than My Hometown,More Than My Hometown,Morgan Wallen,2020-04-17,216573,79,0.621,0.601,0.621,0.882,0.0,0.132,-5.01,0.0459,126.023,4
+82,One Night Standards,Never Will,Ashley McBryde,2020-04-03,190973,72,0.537,0.0287,0.537,0.686,0.00709,0.0988,-5.022,0.0293,78.052,4
+83,Grace (feat. 42 Dugg),My Turn,Lil Baby,2020-02-28,203438,73,0.817,0.38,0.817,0.513,0.0,0.109,-6.263,0.394,123.029,4
+84,BELIEVE IT,PARTYMOBILE,PARTYNEXTDOOR,2020-03-27,183219,84,0.43,0.0902,0.43,0.7,0.0,0.216,-5.35,0.264,158.373,4
+85,Bang!,Bang!,AJR,2020-02-12,170858,72,0.74,0.0183,0.74,0.516,0.0,0.0558,-6.233,0.0507,139.918,4
+86,21,THE GOAT,Polo G,2020-05-15,163797,84,0.783,0.149,0.783,0.479,0.0,0.101,-10.646,0.541,176.027,4
+87,"One Beer (HARDY feat. Lauren Alaina, Devin Dawson)",HIXTAPE: Vol. 1,HIXTAPE,2019-09-13,173173,76,0.516,0.563,0.516,0.745,0.0,0.275,-8.352,0.0774,186.004,3
+88,In Your Eyes,After Hours (Deluxe),The Weeknd,2020-04-03,237522,33,0.667,0.00255,0.667,0.72,7.49e-05,0.0753,-5.348,0.0331,100.021,4
+89,Girl Of My Dreams,Pray 4 Love,Rod Wave,2020-04-03,159817,75,0.586,0.502,0.586,0.547,0.0,0.0963,-7.383,0.095,75.911,4
+90,Do It,Do It,Chloe x Halle,2020-05-14,176786,78,0.701,0.0916,0.701,0.668,2.09e-06,0.111,-7.287,0.0516,82.978,4
+91,Stick That In Your Country Song,Stick That In Your Country Song,Eric Church,2020-06-25,228706,65,0.536,0.0658,0.536,0.863,0.172,0.118,-5.081,0.0362,89.979,4
+92,Lovin' On You,What You See Is What You Get,Luke Combs,2019-11-08,194866,74,0.572,0.00165,0.572,0.949,0.000195,0.163,-4.865,0.06,118.974,4
+93,Pretty Heart,Pretty Heart,Parker McCollum,2019-08-30,244797,69,0.562,0.00531,0.562,0.683,0.0,0.107,-4.427,0.0296,132.003,4
+94,Righteous,Righteous,Juice WRLD,2020-04-24,243356,87,0.707,0.0397,0.707,0.622,0.0,0.149,-6.951,0.031,142.942,4
+95,Rags2Riches (feat. ATR Son Son),Pray 4 Love,Rod Wave,2020-04-03,167183,80,0.904,0.294,0.904,0.252,0.0,0.104,-17.54,0.11,117.994,4
+96,My Truck,BRELAND EP,BRELAND,2020-05-22,158329,70,0.883,0.23,0.883,0.299,7.62e-06,0.162,-8.382,0.105,136.982,4
+97,X (with KAROL G),XV,Jonas Brothers,2020-05-15,185277,82,0.715,0.0485,0.715,0.827,3.61e-05,0.321,-5.09,0.0617,117.977,4
+98,I Called Mama,I Called Mama,Tim McGraw,2020-05-08,211576,69,0.501,0.589,0.501,0.63,4.33e-06,0.151,-7.018,0.0329,86.186,4
+99,Shotta Flow 5,Shotta Flow 5,NLE Choppa,2020-06-12,145167,62,0.814,0.0637,0.814,0.757,0.0,0.0673,-5.319,0.348,140.011,4
